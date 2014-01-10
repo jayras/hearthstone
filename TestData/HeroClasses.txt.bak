@@ -1,0 +1,13 @@
+#Hero Classes	isNPC
+#ID	ClassName	HeroName	false
+1	Druid	Malfurion Stormrage	false
+2	Hunter	Rexxar	false
+3	Mage	Jaina Proudmoore	false
+4	Paladin	Uther the Lightbringer	false
+5	Priest	Anduin Wrynn	false
+6	Rogue	Valeera Sanguinar	false
+7	Shaman	Thrall	false
+8	Warlock	Gul'dan	false
+9	Warrior	Garrosh Hellscream	false
+10	Mage	Practice Mage	true
+

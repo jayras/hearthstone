@@ -1,0 +1,4 @@
+#Match
+#ID	PlayerID	HeroClassID	DeckID	MatchTypeID	OpponentClassID	OpponentName	OpponentRankID	StartingRankID	StartingRankStars	EndingRankID	EndingRankStars	HaveCoin	HaveWon	Rounds	DidConcede	Notes
+1	1	8	10	2	3	Test Opponent	20	20	1	20	2	0	true	7	no	Epic battle to the bitter end, it was bloody!!
+

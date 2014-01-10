@@ -1,0 +1,36 @@
+#Ranks
+#ID	Number	Name	ImageLink	ExpirationDate
+1	1	Novice	null	2013-12-10
+2	2	Apprentice	null	2013-12-10
+3	3	Copper	null	2013-12-10
+4	4	Silver	null	2013-12-10
+5	5	Gold	null	2013-12-10
+6	6	Platinum	null	2013-12-10
+7	7	Diamond	null	2013-12-10
+8	8	Master	null	2013-12-10
+9	25	Angry Chicken	null	null
+10	24	Leper Gnome	null	null
+11	23	Silver Hand Knight	null	null
+12	22	Murloc Raider	null	null
+13	21	Southsea Deckhand	null	null
+14	20	Shieldbearer	null	null
+15	19	Novice Engineer	null	null
+16	18	Sorcerer's Apprentice	null	null
+17	17	Tauren Warrior	null	null
+18	16	Questing Adventurer	null	null
+19	15	Silvermoon Guardian	null	null
+20	14	Raid Leader	null	null
+21	13	Dread Corsair	null	null
+22	12	Warsong Commander	null	null
+23	11	Big Game Hunter	null	null
+24	10	Ogre Magi	null	null
+25	9	Argent Squire	null	null
+26	8	Frostwolf Warlord	null	null
+27	7	Sunwalker	null	null
+28	6	Ancient of War	null	null
+29	5	Sea Giant	null	null
+30	4	Mountain Giant	null	null
+31	3	Molten Giant	null	null
+32	2	The Black Knight	null	null
+33	1	Innkeeper	null	null
+34	0	Legend	null	null

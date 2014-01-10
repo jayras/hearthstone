@@ -1,0 +1,3 @@
+#Player Ranks
+#ID	PlayerID	SeasonID	RankID	Stars	DateAchieved
+1	2	9	1	2013-12-10

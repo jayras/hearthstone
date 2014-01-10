@@ -1,0 +1,12 @@
+#Deck
+#ID	PlayerID	ClassID	Name	URL	Version
+1	1	1	Test Druid	null	1.0
+2	1	2	Test Hunter	http://www.hearthhead.com/deckbuilder#cMnl7MkL7zcD7Mht7MwH7Mi07zm27zGM7MVz7zIN7MIJ7MIM7Ma67Maw7MqX7MIm7MaY8c	2.0
+3	1	3	Test Mage	null	1.0
+4	1	4	Test Paladin	null	1.0
+5	1	5	Test Priest	null	1.0
+6	1	6	Test Rogue	null	1.0
+7	1	7	Test Shaman	null	1.0
+8	1	8	Test Warlock	null	1.0
+9	1	9	Test Warrior	null	1.0
+10	1	8	War-Mur Beef Stew	null	10.0
